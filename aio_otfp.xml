@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>AIM-ROM</RomName>
+<VersionName>AIM-System-V2.0-20170713-OFFICIAL-aio_otfp</VersionName>
+<VersionNumber type="integer">20170713</VersionNumber>
+<DirectUrl><![CDATA[http://adambelamri.eu/Releases/Aim/AIM-System-V2.0-20170713-OFFICIAL-aio_otfp.zip]]></DirectUrl>
+<HttpUrl><![CDATA[http://adambelamri.eu/?dir=Releases/Aim]]></HttpUrl>
+<Android>7.1.2</Android>
+<CheckMD5>477fd131bafdb30d669ff8d7d093a7c9</CheckMD5>
+<FileSize type="integer">590604580</FileSize>
+<Developer><![CDATA[Ninad Patil (PainKiller3)]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/k3-note/orig-development/rom-aim-rom-t3615312]]></WebsiteURL>
+<DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
+<Changelog>
+<![CDATA[
+#  AIMROM July Update :
+
+
+# Note : 
+
+_Clean flash is recommended. Bug reports are not appreciated  without logcat.
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
+
+---
+
+]]>
+</Changelog>
+<AddonCount>3</AddonCount>
+<AddonsURL>
+https://goo.gl/KUWru6
+</AddonsURL>
+</ROM>
