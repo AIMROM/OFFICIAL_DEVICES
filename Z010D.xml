@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>AIM-ROM</RomName>
+<VersionName>AIM-System-V2.0-20170713-OFFICIAL-Z010D</VersionName>
+<VersionNumber type="integer">20170713</VersionNumber>
+<DirectUrl><![CDATA[https://qc0.uploads.androidfilehost.com/dl/hXtiUeaYgHUKeyegJJ0vNQ/1500187328/889764386195915646/AIM-System-V2.0-20170713-OFFICIAL-Z010D.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?w=files&flid=185662]]></HttpUrl>
+<Android>7.1.2</Android>
+<CheckMD5>7b7c7bba22ce1c558c07298d22a30e44</CheckMD5>
+<FileSize type="integer">590604580</FileSize>
+<Developer><![CDATA[Anand Ramachandran & shadowreaper1]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/zenfone2/general/rom-aim-rom-t3615288]]></WebsiteURL>
+<DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
+<Changelog>
+<![CDATA[
+#  AIMROM July Update :
+# Note : 
+_Clean flash is  recommended. Bug reports are not appreciated  without Logcats.
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
+---
+]]>
+</Changelog>
+<AddonCount>3</AddonCount>
+<AddonsURL>
+https://goo.gl/KUWru6
+</AddonsURL>
+</ROM>
