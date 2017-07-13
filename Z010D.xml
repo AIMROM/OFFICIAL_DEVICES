@@ -1,18 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>System-V2.0-20170712-OFFICIAL-Z010D</VersionName>
-<VersionNumber type="integer">20170712</VersionNumber>
-<DirectUrl><![CDATA[https://qc3.androidfilehost.com/dl/iofOKlK1zeQgvnETUUKN4A/1500105192/673368273298970704/AIM-System-V2.0_20170712-OFFICIAL-Z010D.zip]]></DirectUrl>
-<HttpUrl><![CDATA[http://goo.gl/NUC2iH]]></HttpUrl>
+<VersionName>AIM-System-V2.0-20170713-OFFICIAL-Z010D</VersionName>
+<VersionNumber type="integer">20170713</VersionNumber>
+<DirectUrl><![CDATA[https://qc3.androidfilehost.com/dl/sWo9v9vy3y1rS6dPJg2ixg/1500177539/745425885120748332/AIM-System-V2.0-20170713-OFFICIAL-Z010D.zip]]></DirectUrl>
+<HttpUrl><![CDATA[http://downloads.aospextended.com/Z010D/]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>5e23689ad025897cdabb4159247d5999</CheckMD5>
-<FileSize type="integer">509600</FileSize>
-<Developer><![CDATA[Anand_Ramachandran]]></Developer>
-<WebsiteURL><![CDATA[https://goo.gl/W9WvuL]]></WebsiteURL>
-<DonateURL><![CDATA[https://goo.gl/qMCbEY]]></DonateURL>
+<CheckMD5>477fd131bafdb30d669ff8d7d093a7c9</CheckMD5>
+<FileSize type="integer">590604580</FileSize>
+<Developer><![CDATA[ANAND RAMACHANDRAN]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/zenfone2/orig-development/rom-aospextended-rom-v4-2-t3617932]]></WebsiteURL>
+<DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
 <Changelog>
 <![CDATA[
+#  AIMROM July Update :
+
+- Merge July security patch
+- Merge upstream commits from CAF
+- Fix launch of music player on headset connect after reboot
+- Music player on headset connect: Add bluetooth compatibility
+- Add safe headset volume option
+- Optimise HWUI
+- Switch to Chromium webview
+- Fix wrong peek height of notification panel
+- Speed up fingerprint wakeup and unlock scenario
+- Fix camera shutter sound toggle
+- Fix many random crashes
+- Add HW home button wake
+- Improve night mode
+- Improve QS tiles
+- Add ADB Over Network support and QS tile
+- Fix network arrows not showing when data save was enabled
+- Fix various NPEs
+- Fix memory leaks and errors
+- Switch to Launcer3 (Pixel UI + Icon pack support)
+- Change internal shared storage icon progress bar accent
+- Add boot option in AppOps
+- Add new smart bar icons
+- Add left navigation bar pulse support
+- Fix memory corruption on sound trigger
+- Option to display disabled data indicator icons
+- Add option to enable button backlight only when the button is pressed
+- Set GBoard theme to pixel by default
+- AEX OTA is completely themable now
+- Add support for Crowdin
+- Fix icon themeing on Valerie and few more themes
+- Fix hiding of developer options
+- Fix smartbar DPI updation
+- Update all translations
+- Update all pre-built packages
+- Update AEXPapers 
+- Update all source-built packages
+- Bug fixes and performance improvements
+
+---
+
+## Asus Zenfone Max (Z010D) specific changelogs
+---
+**[06.06.17]**
+- Initial Releases 
+
+---
+
+# Note : 
+
+_Clean flash is always recommended. Bug reports are not appreciated  if not clean flashed.
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
+
+---
+
 ]]>
 </Changelog>
+<AddonCount>3</AddonCount>
+<AddonsURL>
+http://downloads.aospextended.com/aexaddons.xml
+</AddonsURL>
 </ROM>
