@@ -6,8 +6,8 @@
 <DirectUrl><![CDATA[http://adambelamri.eu/Releases/Aim/AIM-System-V2.0-20170713-OFFICIAL-aio_otfp.zip]]></DirectUrl>
 <HttpUrl><![CDATA[http://adambelamri.eu/?dir=Releases/Aim]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>477fd131bafdb30d669ff8d7d093a7c9</CheckMD5>
-<FileSize type="integer">590604580</FileSize>
+<CheckMD5>7b7c7bba22ce1c558c07298d22a30e44</CheckMD5>
+<FileSize type="integer">590604790</FileSize>
 <Developer><![CDATA[Ninad Patil (PainKiller3)]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/k3-note/orig-development/rom-aim-rom-t3615312]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
@@ -15,10 +15,47 @@
 <![CDATA[
 #  AIMROM July Update :
 
+- Merge July security patch
+- Fix launch of music player on headset connect after reboot
+- Music player on headset connect: Add bluetooth compatibility
+- Add safe headset volume option
+- Optimise HWUI
+- Switch to Chromium webview
+- Fix wrong peek height of notification panel
+- Speed up fingerprint wakeup and unlock scenario
+- Fix camera shutter sound toggle
+- Fix many random crashes
+- Add HW home button wake
+- Improve night mode
+- Improve QS tiles
+- Add ADB Over Network support and QS tile
+- Fix network arrows not showing when data save was enabled
+- Fix various NPEs
+- Fix memory leaks and errors
+- Switch to Launcer3 (Pixel UI + Icon pack support)
+- Change internal shared storage icon progress bar accent
+- Add boot option in AppOps
+- Add new smart bar icons
+- Add left navigation bar pulse support
+- Fix memory corruption on sound trigger
+- Option to display disabled data indicator icons
+- Add option to enable button backlight only when the button is pressed
+- Set GBoard theme to pixel by default
+- AIM OTA is completely themable now
+- Add support for Crowdin
+- Fix icon themeing on Valerie and few more themes
+- Fix hiding of developer options
+- Fix smartbar DPI updation
+- Update all translations
+- Update all pre-built packages 
+- Update all source-built packages
+- Bug fixes and performance improvements
+
+---
 
 # Note : 
 
-_Clean flash is recommended. Bug reports are not appreciated  without logcat.
+_Clean flash is  recommended. Bug reports are not appreciated without Logcat.
 Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
 
 ---
