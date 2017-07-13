@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>AIM-ROM</RomName>
+<VersionName>AIM-System-V2.0_20170713-OFFICIAL-kenzo</VersionName>
+<VersionNumber type="integer">20170713</VersionNumber>
+<DirectUrl><![CDATA[]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?w=files&flid=180615]]></HttpUrl>
+<Android>7.1.2</Android>
+<CheckMD5>a160bac3e223d2668ec2f06b01d08c51</CheckMD5>
+<FileSize type="integer">484337255</FileSize>
+<Developer><![CDATA[coolmihir]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/redmi-note-3/development/rom-aim-rom-t3628121]]></WebsiteURL>
+<DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
+<Changelog>
+<![CDATA[
+#  AIMROM July Update :
+# Note : 
+_Clean flash is recommended. Bug reports are not appreciated  without Logcat.
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
+---
+]]>
+</Changelog>
+<AddonCount>3</AddonCount>
+<AddonsURL>
+https://goo.gl/KUWru6
+</AddonsURL>
+</ROM>
