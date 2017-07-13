@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.0-20170713-OFFICIAL-Z010D</VersionName>
+<VersionName>AIM-System-V2.0-20170713-OFFICIAL-aio_otfp</VersionName>
 <VersionNumber type="integer">20170713</VersionNumber>
 <DirectUrl><![CDATA[http://adambelamri.eu/Releases/Aim/AIM-System-V2.0-20170713-OFFICIAL-aio_otfp.zip]]></DirectUrl>
 <HttpUrl><![CDATA[http://adambelamri.eu/?dir=Releases/Aim]]></HttpUrl>
