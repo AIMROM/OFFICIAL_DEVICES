@@ -7,7 +7,7 @@
 <HttpUrl><![CDATA[https://www.androidfilehost.com/?w=files&flid=185662]]></HttpUrl>
 <Android>7.1.2</Android>
 <CheckMD5>7b7c7bba22ce1c558c07298d22a30e44</CheckMD5>
-<FileSize type="integer">590604790</FileSize>
+<FileSize type="integer">430604790</FileSize>
 <Developer><![CDATA[ANAND RAMACHANDRAN]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/zenfone2/general/rom-aim-rom-t3615288]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
@@ -15,50 +15,7 @@
 <![CDATA[
 #  AIMROM July Update :
 
-- Merge July security patch
-- Fix launch of music player on headset connect after reboot
-- Music player on headset connect: Add bluetooth compatibility
-- Add safe headset volume option
-- Optimise HWUI
-- Switch to Chromium webview
-- Fix wrong peek height of notification panel
-- Speed up fingerprint wakeup and unlock scenario
-- Fix camera shutter sound toggle
-- Fix many random crashes
-- Add HW home button wake
-- Improve night mode
-- Improve QS tiles
-- Add ADB Over Network support and QS tile
-- Fix network arrows not showing when data save was enabled
-- Fix various NPEs
-- Fix memory leaks and errors
-- Switch to Launcer3 (Pixel UI + Icon pack support)
-- Change internal shared storage icon progress bar accent
-- Add boot option in AppOps
-- Add new smart bar icons
-- Add left navigation bar pulse support
-- Fix memory corruption on sound trigger
-- Option to display disabled data indicator icons
-- Add option to enable button backlight only when the button is pressed
-- Set GBoard theme to pixel by default
-- AIM OTA is completely themable now
-- Add support for Crowdin
-- Fix icon themeing on Valerie and few more themes
-- Fix hiding of developer options
-- Fix smartbar DPI updation
-- Update all translations
-- Update all pre-built packages 
-- Update all source-built packages
-- Bug fixes and performance improvements
-
----
-
-## Asus Zenfone Max (Z010D) specific changelogs
----
-**[06.06.17]**
-- Initial Releases 
-
----
+- DONT DOWNLOAD THIS IS JUST AN OTA TEST
 
 # Note : 
 
