@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.0-20170717-OFFICIAL-aio_otfp</VersionName>
-<VersionNumber type="integer">20170717</VersionNumber>
-<DirectUrl><![CDATA[http://adambelamri.eu/Releases/Aim/AIM-System-V2.0-20170717-OFFICIAL-aio_otfp.zip]]></DirectUrl>
+<VersionName>AIM-System-V2.0-20170718-OFFICIAL-aio_otfp.zip</VersionName>
+<VersionNumber type="integer">20170718</VersionNumber>
+<DirectUrl><![CDATA[http://adambelamri.eu/Releases/Aim/AIM-System-V2.0-20170718-OFFICIAL-aio_otfp.zip]]></DirectUrl>
 <HttpUrl><![CDATA[http://adambelamri.eu/?dir=Releases/Aim]]></HttpUrl>
 <Android>7.1.2</Android>
 <CheckMD5>7b7c7bba22ce1c558c07298d22a30e44</CheckMD5>
