@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>AIM-ROM</RomName>
+<VersionName>AIM-System-V2.0-20170719-OFFICIAL-mido</VersionName>
+<VersionNumber type="integer">20170718</VersionNumber>
+<DirectUrl><![CDATA[https://de1.androidfilehost.com/dl/nQXrJ1WblT9-scgnO76iOw/1500689049/673368273298972621/AIM-System-V2.0-20170718-OFFICIAL-mido.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=673368273298972621]]></HttpUrl>
+<Android>7.1.2</Android>
+<CheckMD5>99612bb10653bdc77d4c878a828035a1</CheckMD5>
+<FileSize type="integer">546727526</FileSize>
+<Developer><![CDATA[Riad Khan]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-aim-rom-t3615473]]></WebsiteURL>
+<DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
+<Changelog>
+<![CDATA[
+#  AIMROM July Update :
+
+- Merge July security patch
+- Fix launch of music player on headset connect after reboot
+- Music player on headset connect: Add bluetooth compatibility
+- Add safe headset volume option
+- Optimise HWUI
+- Switch to Chromium webview
+- Fix wrong peek height of notification panel
+- Speed up fingerprint wakeup and unlock scenario
+- Fix camera shutter sound toggle
+- Fix many random crashes
+- Add HW home button wake
+- Improve night mode
+- Improve QS tiles
+- Add ADB Over Network support and QS tile
+- Fix network arrows not showing when data save was enabled
+- Fix various NPEs
+- Fix memory leaks and errors
+- Switch to Launcer3 (Pixel UI + Icon pack support)
+- Change internal shared storage icon progress bar accent
+- Add boot option in AppOps
+- Add new smart bar icons
+- Add left navigation bar pulse support
+- Fix memory corruption on sound trigger
+- Option to display disabled data indicator icons
+- Add option to enable button backlight only when the button is pressed
+- Set GBoard theme to pixel by default
+- AIM OTA is completely themable now
+- Add support for Crowdin
+- Fix icon themeing on Valerie and few more themes
+- Fix hiding of developer options
+- Fix smartbar DPI updation
+- Update all translations
+- Update all pre-built packages 
+- Update all source-built packages
+- Bug fixes and performance improvements
+
+---
+
+# Note : 
+
+_Clean flash is  recommended. Bug reports are not appreciated without Logcat.
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
+
+---
+
+]]>
+</Changelog>
+<AddonCount>3</AddonCount>
+<AddonsURL>
+https://goo.gl/KUWru6
+</AddonsURL>
+</ROM>
