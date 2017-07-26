@@ -8,12 +8,13 @@
 <Android>7.1.2</Android>
 <CheckMD5></CheckMD5>
 <FileSize type="integer">536699960</FileSize>
-<Developer><![CDATA[ROM FACTORY]]></Developer>
+<Developer><![CDATA[SARTHAK MALLA(ROMFACTORY)]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/mi-max/development/rom-aim-rom-v2-0-t3626567]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
 <Changelog>
 <![CDATA[
 #  AIMROM July Update :
+
 - Merge July security patch
 - Fix launch of music player on headset connect after reboot
 - Music player on headset connect: Add bluetooth compatibility
