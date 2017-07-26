@@ -3,13 +3,13 @@
 <RomName>AIM-ROM</RomName>
 <VersionName>AIM-System-V2.0-20170726-OFFICIAL-hydrogen</VersionName>
 <VersionNumber type="integer">20170726</VersionNumber>
-<DirectUrl><![CDATA[]]></DirectUrl>
-<HttpUrl><![CDATA[will add link]]></HttpUrl>
+<DirectUrl><![CDATA[https://drive.google.com/uc?export=download&confirm=3ZtM&id=0B1SinrgCbyBSYWtrOW5VWHBESk0]]></DirectUrl>
+<HttpUrl><![CDATA[https://drive.google.com/open?id=0B1SinrgCbyBSYWtrOW5VWHBESk0]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>will add md5</CheckMD5>
-<FileSize type="integer">414337255</FileSize>
-<Developer><![CDATA[ROMFACTORY]]></Developer>
-<WebsiteURL><![CDATA[will add link]]></WebsiteURL>
+<CheckMD5></CheckMD5>
+<FileSize type="integer">536699960</FileSize>
+<Developer><![CDATA[ROM FACTORY]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/mi-max/development/rom-aim-rom-v2-0-t3626567]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
 <Changelog>
 <![CDATA[
