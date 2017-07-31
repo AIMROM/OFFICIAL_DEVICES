@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.0-20170719-OFFICIAL-Z010D</VersionName>
-<VersionNumber type="integer">20170719</VersionNumber>
-<DirectUrl><![CDATA[http://qc4.androidfilehost.com/dl/VkelQuAbgQneY3oJ7J2PkA/1500715294/889764386195917061/AIM-System-V2.0-20170719-OFFICIAL-Z010D.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=889764386195917061]]></HttpUrl>
+<VersionName>AIM-System-V2.0-20170731-OFFICIAL-Z010D</VersionName>
+<VersionNumber type="integer">20170731</VersionNumber>
+<DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aimroms/Z010D/AIM-System-V2.0-20170731-OFFICIAL-Z010D.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faimroms%2Ffiles%2FZ010D%2F&ts=1501517479&use_mirror=master]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/Z010D/AIM-System-V2.0-20170731-OFFICIAL-Z010D.zip/download]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>21ad15df1f63ec4354f2ff2acfb6cf8a</CheckMD5>
+<CheckMD5>400094f84356eea2f7fe093f8084a87b</CheckMD5>
 <FileSize type="integer">520604790</FileSize>
 <Developer><![CDATA[ANAND RAMACHANDRAN]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/zenfone2/general/rom-aim-rom-t3615288]]></WebsiteURL>
@@ -14,6 +14,9 @@
 <Changelog>
 <![CDATA[
 #  AIMROM July Update :
+
+ --ADDED OMNISTYLE--
+--VARIOUS FIXES AND TWEAKS--
 
 - Merge July security patch
 - Fix launch of music player on headset connect after reboot
