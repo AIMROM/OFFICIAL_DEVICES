@@ -3,8 +3,8 @@
 <RomName>AIM-ROM</RomName>
 <VersionName>AIM-System-V2.0-20170803-OFFICIAL-Z00L</VersionName>
 <VersionNumber type="integer">20170803</VersionNumber>
-<DirectUrl><![CDATA[http://qc4.androidfilehost.com/dl/69i3ztSHBPbz8mnDHKHeNw/1502010524/889764386195920531/AIM-System-V2.0-20170803-OFFICIAL-Z00L.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=889764386195920531]]></HttpUrl>
+<DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aimroms/Z00L/AIM-System-V2.0-20170803-OFFICIAL-Z00L.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faimroms%2Ffiles%2FZ00L%2F&ts=1501781553&use_mirror=netix]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/Z00L/AIM-System-V2.0-20170803-OFFICIAL-Z00L.zip/download]]></HttpUrl>
 <Android>7.1.2</Android>
 <CheckMD5>e2bb44e78e8971469783b7552c438c16</CheckMD5>
 <FileSize type="integer">621805568</FileSize>
