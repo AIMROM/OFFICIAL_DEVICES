@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.0-20170802-UNOFFICIAL-m7</VersionName>
-<VersionNumber type="integer">20170802</VersionNumber>
-<DirectUrl><![CDATA[https://qc3.androidfilehost.com/dl/pb2-8zsX9rH5UnJCJAjgbA/1501977102/889764386195920444/AIM-System-V2.0-20170802-UNOFFICIAL-m7.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?w=files&flid=162517]]></HttpUrl>
+<VersionName>AIM-System-V2.0-20170803-OFFICIAL-m7</VersionName>
+<VersionNumber type="integer">20170803</VersionNumber>
+<DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aimroms/m7/AIM-System-V2.0-20170803-OFFICIAL-m7.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faimroms%2Ffiles%2Fm7%2F&ts=1501784976&use_mirror=vorboss]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/m7/]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>19a99a2481dc26a75bedab454ceb725d</CheckMD5>
-<FileSize type="integer">304340</FileSize>
+<CheckMD5>46e04424dc2d7c53ee2649b88d1fcb41</CheckMD5>
+<FileSize type="integer">335317245</FileSize>
 <Developer><![CDATA[(alial04)]]></Developer>
 <WebsiteURL><![CDATA[ no thread yet will come in the future!]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
