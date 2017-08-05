@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?> <ROM>
   <RomName>Aimrom</RomName>
-  <VersionName>AIM-System-V2.0-20170716-OFFICIAL-oneplus2</VersionName>
-  <VersionNumber type="integer">invalidated</VersionNumber>
-  <DirectUrl><![CDATA[removed]]></DirectUrl> 
+  <VersionName>AIM-System-V2.0-20170805-OFFICIAL-oneplus2</VersionName>
+  <VersionNumber type="integer">20170805</VersionNumber>
+  <DirectUrl><![CDATA[http://srv1.botstack.host:8001/aim/AIM-System-V2.0-20170805-OFFICIAL-oneplus2.zip]]></DirectUrl> 
   <HttpUrl><![CDATA[http://srv1.botstack.host:8001/aim/]]> </HttpUrl>/>
   <Android>7.1.2</Android>
-  <CheckMD5><![CDATA[removed]]></CheckMD5>
-  <FileSize type="integer">added by purpose to break parse &</FileSize>
+  <CheckMD5><![CDATA[33d0766300b9a8856d43b998ecdbb29d]]></CheckMD5>
+  <FileSize type="integer">570005254</FileSize>
   <Developer>anupritaisno1</Developer>
   <WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-2/development/rom-aim-rom-t3620010]]></WebsiteURL>
   <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
