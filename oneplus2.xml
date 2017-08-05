@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?> <ROM>
-  <RomName>Haruhirom</RomName>
-  <VersionName>8.2</VersionName>
-  <VersionNumber type="integer">20170801</VersionNumber>
-  <DirectUrl><![CDATA[http://srv1.botstack.host:8001/oneplus/op2/haruhirom-stable-8.2.zip]]></DirectUrl> 
-  <HttpUrl><![CDATA[http://srv1.botstack.host:8001/oneplus/op2/]]> </HttpUrl>/>
+  <RomName>Aimrom</RomName>
+  <VersionName>AIM-System-V2.0-20170716-OFFICIAL-oneplus2</VersionName>
+  <VersionNumber type="integer">invalidated</VersionNumber>
+  <DirectUrl><![CDATA[removed]]></DirectUrl> 
+  <HttpUrl><![CDATA[http://srv1.botstack.host:8001/aim/]]> </HttpUrl>/>
   <Android>7.1.2</Android>
-  <CheckMD5><![CDATA[2056e09fb2f7b9771f6e9c6fec5a664f]]></CheckMD5>
-  <FileSize type="integer">574551312</FileSize>
+  <CheckMD5><![CDATA[removed]]></CheckMD5>
+  <FileSize type="integer">added by purpose to break parse &</FileSize>
   <Developer>anupritaisno1</Developer>
-  <Website nil="true"  />
-  <DonateURL nil="true" />
+  <WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-2/development/rom-aim-rom-t3620010]]></WebsiteURL>
+  <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
   <Changelog> <![CDATA[ initital ota bringup
 	  improved ext4 write speed
-	  fdroidprivilegedextension added
 	  merged july patches in kernel
 	  fixed cves
-	  fixed themeinterfacer crash
-	  added my username to prevent confusion about unofficial build
-	  lots of bugfixes
 	  ]]></Changelog>
   <AddonCount>1</AddonCount>
   <AddonsURL><![CDATA[https://raw.githubusercontent.com/GlassROM-devices/o/o/addons.xml]]></AddonsURL>
