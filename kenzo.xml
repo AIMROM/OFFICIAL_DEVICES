@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.0-20170723-OFFICIAL-kenzo</VersionName>
-<VersionNumber type="integer">20170723</VersionNumber>
-<DirectUrl><![CDATA[]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=745425885120750780]]></HttpUrl>
+<VersionName>AIM-System-V2.0-20170808-OFFICIAL-kenzo</VersionName>
+<VersionNumber type="integer">20170808</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kenzo/AIM-System-V2.0-20170808-OFFICIAL-kenzo.zip/download]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kenzo/]]></HttpUrl>
 <Android>7.1.2</Android>
 <CheckMD5>f18a0ea34253c699cae8386fd9cafce9</CheckMD5>
 <FileSize type="integer">414337255</FileSize>
