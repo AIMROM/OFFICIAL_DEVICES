@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.0_20170724-OFFICIAL-potter</VersionName>
-<VersionNumber type="integer">20170724</VersionNumber>
-<DirectUrl><![CDATA[https://de1.androidfilehost.com/dl/k6g3Ol9XcscRnUWwMNnU-w/1501139318/961840155545584215/AIM-System-V2.0-20170724-OFFICIAL-potter.zip?]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?w=files&flid=180615]]></HttpUrl>
+<VersionName>AIM-System-V2.0_201708-07-OFFICIAL-potter</VersionName>
+<VersionNumber type="integer">20170807</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/potter/AIM-System-V2.0-20170807-OFFICIAL-potter.zip/download]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/potter/]]></HttpUrl>
 <Android>7.1.2</Android>
 <CheckMD5>a160bac3e223d2668ec2f06b01d08c51</CheckMD5>
-<FileSize type="integer">424337255</FileSize>
+<FileSize type="integer">392337255</FileSize>
 <Developer><![CDATA[manikchathli]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/g5-plus/development/rom-aim-rom-t3615285]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
