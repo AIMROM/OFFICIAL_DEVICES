@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.0_20170724-OFFICIAL-bullhead</VersionName>
-<VersionNumber type="integer">20170724</VersionNumber>
-<DirectUrl><![CDATA[https://qc3.androidfilehost.com/dl/vVsQjQhOvyHXA74XcGxpkQ/1501147260/961840155545584247/AIM-System-V2.0-20170724-OFFICIAL-bullhead.zip?]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?w=files&flid=181902]]></HttpUrl>
+<VersionName>AIM-System-V2.0_20170808-OFFICIAL-bullhead</VersionName>
+<VersionNumber type="integer">20170808</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/AIM-System-V2.0-20170808-OFFICIAL-bullhead.zip/download]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/]]></HttpUrl>
 <Android>7.1.2</Android>
 <CheckMD5>a160bac3e223d2668ec2f06b01d08c51</CheckMD5>
 <FileSize type="integer">424337255</FileSize>
