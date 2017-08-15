@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName></VersionName>
-<VersionNumber type="integer"></VersionNumber>
-<DirectUrl><![CDATA[]]></DirectUrl>
+<VersionName>AIM-System-V2.0-20170815-OFFICIAL-aio_row</VersionName>
+<VersionNumber type="integer">20170815</VersionNumber>
+<DirectUrl><![CDATA[]]>http://qc4.androidfilehost.com/dl/LPuYKuNdc-zcblCPMEYqIQ/1503008460/817550096634792774/AIM-System-V2.0-20170815-OFFICIAL-aio_row.zip</DirectUrl>
 <HttpUrl><![CDATA[https://www.androidfilehost.com/?w=files&flid=202764]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5></CheckMD5>
+<CheckMD5>2061879f521772033204101627d67428</CheckMD5>
 <FileSize type="integer"></FileSize>
 <Developer><![CDATA[Aryan Kedare (Devil)]]></Developer>
 <WebsiteURL><![CDATA[Keep Blank For Now]]></WebsiteURL>
@@ -51,6 +51,23 @@
 - Update all source-built packages
 - Bug fixes and performance improvements
 
+# aio_row Specific Changelog 
+- Build 15 August 
+- Now Official 
+- Fixed Hotspot
+- wifi-tethering: ap0 fully functional, no more stuck on obtaining ip-address
+- usb-tethering: set to rndis0 only
+- doze: gesture support added
+- sepolicy: updated magisk permissions
+- ramdisk: cleaned up & removed some unusual mounts
+- overlay: removed unused IMS overlays & switched defaultNotificationLEDcolour to lime.
+- Youtube 720p60 lag fixed
+- Default spectrum profile updated to 1495 MHz (stock frequency)
+- Reverted few Video encoders to stock.
+
+
+- Build 15 June 
+- Inital Build
 ---
 
 # Note : 
