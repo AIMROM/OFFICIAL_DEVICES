@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.0-20170727-OFFICIAL-hydrogen</VersionName>
-<VersionNumber type="integer">20170727</VersionNumber>
-<DirectUrl><![CDATA[https://goo.gl/7G4qUH]]></DirectUrl>
+<VersionName>AIM-System-V2.0-20170816-OFFICIAL-hydrogen.zip</VersionName>
+<VersionNumber type="integer">20170816</VersionNumber>
+<DirectUrl><![CDATA[https://goo.gl/S6MahL]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/hydrogen]]></HttpUrl>
 <Android>7.1.2</Android>
 <CheckMD5>df949eba818ffb4ebeafe5c2d2f0f3ee</CheckMD5>
@@ -14,10 +14,7 @@
 <Changelog>
 <![CDATA[
 
-ADDED ACCENT KERNEL 
-UNDERVOLT COMING SOON
-
-
+MOVED TO NILJEL'S BASE
 #  AIMROM July Update :
 
 - Merge July security patch
