@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.0-20170719-OFFICIAL-ham</VersionName>
+<VersionName>AIM-System-V2.5-20170719-OFFICIAL-ham</VersionName>
 <VersionNumber type="integer">20170719</VersionNumber>
-<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/ham/AIM-System-V2.0-20170819-OFFICIAL-ham.zip/download]]></DirectUrl>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/ham/AIM-System-V2.5-20170819-OFFICIAL-ham.zip/download]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/ham/]]></HttpUrl>
 <Android>7.1.2</Android>
 <CheckMD5>4079bf8de6bd0bc8c5580bd4212e8e8f</CheckMD5>
