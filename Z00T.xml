@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.0-20170719-OFFICIAL-Z00T</VersionName>
-<VersionNumber type="integer">20170719</VersionNumber>
-<DirectUrl><![CDATA[https://de1.androidfilehost.com/dl/yO6Nub6o1dhXIDj4LtzIMA/1500682811/817550096634786984/AIM-System-V2.0-20170719-OFFICIAL-Z00T.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=817550096634786984]]></HttpUrl>
+<VersionName>AIM-System-V2.5-20170824-OFFICIAL-Z00T</VersionName>
+<VersionNumber type="integer">20170824</VersionNumber>
+<DirectUrl><![CDATA[https://netcologne.dl.sourceforge.net/project/aimroms/Z00T/AIM-System-V2.5-20170824-OFFICIAL-Z00T.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/Z00T/AIM-System-V2.5-20170824-OFFICIAL-Z00T.zip/download]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>4079bf8de6bd0bc8c5580bd4212e8e8f</CheckMD5>
-<FileSize type="integer">621805568</FileSize>
+<CheckMD5>4079bf8de6bd0bc8c5580bd4212e8e9f</CheckMD5>
+<FileSize type="integer">6452224</FileSize>
 <Developer><![CDATA[Riad Khan]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/zenfone-2-laser/development/rom-aim-rom-v2-0-t3638961]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
