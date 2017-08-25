@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.0-20170719-OFFICIAL-mido</VersionName>
-<VersionNumber type="integer">20170718</VersionNumber>
-<DirectUrl><![CDATA[https://de1.androidfilehost.com/dl/nQXrJ1WblT9-scgnO76iOw/1500689049/673368273298972621/AIM-System-V2.0-20170718-OFFICIAL-mido.zip]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=673368273298972621]]></HttpUrl>
+<VersionName>AIM-System-V2.5-20170824-OFFICIAL-mido</VersionName>
+<VersionNumber type="integer">20170824</VersionNumber>
+<DirectUrl><![CDATA[https://netix.dl.sourceforge.net/project/aimroms/mido/AIM-System-V2.5-20170824-OFFICIAL-mido.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/mido/AIM-System-V2.5-20170824-OFFICIAL-mido.zip/download]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>99612bb10653bdc77d4c878a828035a1</CheckMD5>
-<FileSize type="integer">546727526</FileSize>
+<CheckMD5>99612bb10653bdc77d4c878a828035a2</CheckMD5>
+<FileSize type="integer">5686272</FileSize>
 <Developer><![CDATA[Riad Khan]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-aim-rom-t3615473]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
