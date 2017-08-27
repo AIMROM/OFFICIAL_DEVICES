@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.0_20170718-OFFICIAL-athene</VersionName>
-<VersionNumber type="integer">20170718</VersionNumber>
-<DirectUrl><![CDATA[https://qc3.androidfilehost.com/dl/x2cuW9gJz5c7dCBYbMygPw/1500614630/817550096634786883/AIM-System-V2.0-20170718-OFFICIAL-athene.zip?]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?w=files&flid=182888]]></HttpUrl>
+<VersionName>AIM-System-V2.5-20170827-OFFICIAL-athene</VersionName>
+<VersionNumber type="integer">20170827</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/athene/AIM-System-V2.5-20170827-OFFICIAL-athene.zip/download]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/athene]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>a160bac3e223d2668ec2f06b01d08c51</CheckMD5>
+<CheckMD5>9d4a91a46a11e046dbd74960bac50bc9</CheckMD5>
 <FileSize type="integer">424337255</FileSize>
 <Developer><![CDATA[Keerten]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/moto-g4-plus/development/rom-aim-rom-t3615336]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
 <Changelog>
 <![CDATA[
-#  AIMROM July Update :
-- Merge July security patch
-- Fix launch of music player on headset connect after reboot
-- Music player on headset connect: Add bluetooth compatibility
-- Add safe headset volume option
-- Optimise HWUI
-- Switch to Chromium webview
-- Fix wrong peek height of notification panel
-- Speed up fingerprint wakeup and unlock scenario
-- Fix camera shutter sound toggle
-- Fix many random crashes
-- Add HW home button wake
-- Improve night mode
-- Improve QS tiles
-- Add ADB Over Network support and QS tile
-- Fix network arrows not showing when data save was enabled
-- Fix various NPEs
-- Fix memory leaks and errors
-- Switch to Launcer3 (Pixel UI + Icon pack support)
-- Change internal shared storage icon progress bar accent
-- Add boot option in AppOps
-- Add new smart bar icons
-- Add left navigation bar pulse support
-- Fix memory corruption on sound trigger
-- Option to display disabled data indicator icons
-- Add option to enable button backlight only when the button is pressed
-- Set GBoard theme to pixel by default
-- AIM OTA is completely themable now
-- Add support for Crowdin
-- Fix icon themeing on Valerie and few more themes
-- Fix hiding of developer options
-- Fix smartbar DPI updation
-- Update all translations
-- Update all pre-built packages 
-- Update all source-built packages
-- Bug fixes and performance improvements
+# AIMROM V2.5 UPDATE!
+
+-Merge August security patch
+-Add support for Snapdragon LLVM toolchain (SDClang)
+-Add support for boost framework
+-Add support for fling velocities
+-Added Colorengine
+-Added Xosp Blur personalization
+-Added AOKP Transition animations
+-Added New battery style
+-Enable/Disable kill button on notification guts
+-Fix string derps
+-Fix In-Call vibrations
+-Animate icon while locking a task
+-Fix Lockscreen shortcut icons disappearing after reboot
+-Make button long press delay configurable in SmartBar
+-Fix layout of system header
+-Fix task lock and free form button placement
+-Fix Dex2oat
+-Fix In-Call timer bug
+-Fixed a npe
+-Fix theme issues in screen pinning mode
+-Disable home button wake on devices with sensitive HW buttons
+-Add check for accidental touch
+-Add pocket lock and pocket judge
+-Doze Service: Fallback to tilt sensor as pickup sensor for ambient display
+-Fix many memory leaks 
+-Option to block sensor for certain packages
+-Fix few NPEs
+-Increase sensitive numbers support
+-Update all translations
+-Update all pre-built packages
+-Performance enhancements and bug fixes
+
+
+#Let's AIM-ify
 ---
 # Note : 
 _Clean flash is  recommended. Bug reports are not appreciated without Logcat.
