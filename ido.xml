@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.0-20170818-OFFICIAL-ido</VersionName>
-<VersionNumber type="integer">20170818</VersionNumber>
-<DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aimroms/ido/AIM-System-V2.0-20170818-OFFICIAL-ido.zip?ts=1503038478]]></DirectUrl>
+<VersionName>AIM-System-V2.5-20170831-OFFICIAL-ido</VersionName>
+<VersionNumber type="integer">20170831</VersionNumber>
+<DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aimroms/ido/AIM-System-V2.5-20170831-OFFICIAL-ido.zip]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/ido/]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>921c93f7d874752306ad352e3c08dc33</CheckMD5>
-<FileSize type="integer">561790328</FileSize>
+<CheckMD5>de20d282d9611f3c41e84dbea3f11e86</CheckMD5>
+<FileSize type="integer">589772586</FileSize>
 <Developer><![CDATA[Albert I (krasCGQ)]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/redmi-3/development/rom-aim-rom-v2-0-t3647040]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
@@ -17,54 +17,49 @@
 
 **Clean flash is required if you're updating from 20170802 build and older due to switchover to private keys.**
 
-#  AIMROM July Update :
+# AIMROM V2.5 UPDATE!
 
- --ADDED OMNISTYLE--
---VARIOUS FIXES AND TWEAKS--
-
-- Merge July security patch
-- Fix launch of music player on headset connect after reboot
-- Music player on headset connect: Add bluetooth compatibility
-- Add safe headset volume option
-- Optimise HWUI
-- Switch to Chromium webview
-- Fix wrong peek height of notification panel
-- Speed up fingerprint wakeup and unlock scenario
-- Fix camera shutter sound toggle
-- Fix many random crashes
-- Add HW home button wake
-- Improve night mode
-- Improve QS tiles
-- Add ADB Over Network support and QS tile
-- Fix network arrows not showing when data save was enabled
-- Fix various NPEs
-- Fix memory leaks and errors
-- Switch to Launcer3 (Pixel UI + Icon pack support)
-- Change internal shared storage icon progress bar accent
-- Add boot option in AppOps
-- Add new smart bar icons
-- Add left navigation bar pulse support
-- Fix memory corruption on sound trigger
-- Option to display disabled data indicator icons
-- Add option to enable button backlight only when the button is pressed
-- Set GBoard theme to pixel by default
-- AIM OTA is completely themable now
-- Add support for Crowdin
-- Fix icon themeing on Valerie and few more themes
-- Fix hiding of developer options
-- Fix smartbar DPI updation
+- Merge August security patch
+- Add support for Snapdragon LLVM toolchain (SDClang)
+- Add support for boost framework
+- Add support for fling velocities
+- Added Colorengine
+- Added Xosp Blur personalization
+- Added AOKP Transition animations
+- Added New battery style
+- Enable/Disable kill button on notification guts
+- Fix string derps
+- Fix In-Call vibrations
+- Animate icon while locking a task
+- Fix Lockscreen shortcut icons disappearing after reboot
+- Make button long press delay configurable in SmartBar
+- Fix layout of system header
+- Fix task lock and free form button placement
+- Fix Dex2oat
+- Fix In-Call timer bug
+- Fixed a npe
+- Fix theme issues in screen pinning mode
+- Disable home button wake on devices with sensitive HW buttons
+- Add check for accidental touch
+- Add pocket lock and pocket judge
+- Doze Service: Fallback to tilt sensor as pickup sensor for ambient display
+- Fix many memory leaks
+- Option to block sensor for certain packages
+- Fix few NPEs
+- Increase sensitive numbers support
 - Update all translations
-- Update all pre-built packages 
-- Update all source-built packages
-- Bug fixes and performance improvements
+- Update all pre-built packages
+- Performance enhancements and bug fixes
+
+# Let's AIM-ify
 
 ---
 
 # Xiaomi Redmi 3 (ido) specific changes:
 
-- Up-to-date device-specific changes from LineageOS
-- Kernel tweaks and improvements
-- Ignore change regarding usage of SDClang; it doesn't work
+- First build compiled using SDClang (for real!)
+- Merged kernel changes from CAF LA.BR.1.2.9-03610-8x16.0 tag
+- Up-to-date SDcardFS driver
 
 ---
 
