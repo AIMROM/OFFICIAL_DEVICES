@@ -36,7 +36,7 @@
 - Fixed a npe
 - Fix theme issues in screen pinning mode
 - Disable home button wake on devices with sensitive HW buttons
-- Add check for accidental touch
+- Add check for accidental touc
 - Add pocket lock and pocket judge
 - Doze Service: Fallback to tilt sensor as pickup sensor for ambient display
 - Fix many memory leaks
