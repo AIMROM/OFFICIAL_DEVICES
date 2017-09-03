@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.5-20170904-OFFICIAL-hydrogen.zip</VersionName>
-<VersionNumber type="integer">20170904</VersionNumber>
+<VersionName>AIM-System-V2.5-20170903-OFFICIAL-hydrogen.zip</VersionName>
+<VersionNumber type="integer">20170903</VersionNumber>
 <DirectUrl><![CDATA[https://goo.gl/tTGSJw]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/hydrogen]]></HttpUrl>
 <Android>7.1.2</Android>
