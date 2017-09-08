@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.0-20170720-OFFICIAL-z2_plus</VersionName>
-<VersionNumber type="integer">20170720</VersionNumber>
-<DirectUrl><![CDATA[https://de1.androidfilehost.com/dl/QUd4R0moQCKv3B8Z0197rw/1500768727/673368273298972852/AIM-System-V2.0-20170720-OFFICIAL-z2_plus.zip]]></DirectUrl>
+<VersionName>AIM-System-V2.0-20170908-OFFICIAL-z2_plus</VersionName>
+<VersionNumber type="integer">20170908</VersionNumber>
+<DirectUrl><![CDATA[https://nchc.dl.sourceforge.net/project/aimroms/z2_plus/AIM-System-V2.0-20170908-OFFICIAL-z2_plus.zip]]></DirectUrl>
 <HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=673368273298972852]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>5574dec3b3b935bd29979a6c49fa0334</CheckMD5>
-<FileSize type="integer">489520012</FileSize>
+<CheckMD5>5574dec3b3b935bd29979a6c49fa0339</CheckMD5>
+<FileSize type="integer">489520011</FileSize>
 <Developer><![CDATA[ KangkaD]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-aim-rom-t3619474]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
