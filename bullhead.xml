@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.5-20170903-OFFICIAL-bullhead</VersionName>
-<VersionNumber type="integer">20170903</VersionNumber>
-<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/AIM-System-V2.5-20170903-OFFICIAL-bullhead.zip/download]]></DirectUrl>
+<VersionName>AIM-System-V2.5-20170921-OFFICIAL-bullhead-FINAL.zip</VersionName>
+<VersionNumber type="integer">20170921</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/AIM-System-V2.5-20170921-OFFICIAL-bullhead-FINAL.zip/download]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/]]></HttpUrl>
 <Android>7.1.2</Android>
 <CheckMD5>a160bac3e223d2668ec2f06b01d08c51</CheckMD5>
@@ -13,9 +13,9 @@
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
 <Changelog>
 <![CDATA[
-#  AIMROM V2.5 UPDATE!
-
--Merge August security patch
+#  AIMROM September Update :
+-Merge September security patch
+-Final Nougat Released
 -Add support for Snapdragon LLVM toolchain (SDClang)
 -Add support for boost framework
 -Add support for fling velocities
@@ -46,6 +46,7 @@
 -Update all translations
 -Update all pre-built packages
 -Performance enhancements and bug fixes
+
 #Let's AIM-ify
 
 ---
