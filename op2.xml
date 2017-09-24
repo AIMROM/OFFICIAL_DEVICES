@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?> <ROM>
   <RomName>Aimrom</RomName>
-  <VersionName>AIM-System-V2.0-20170805-OFFICIAL-oneplus2</VersionName>
-  <VersionNumber type="integer">20170805</VersionNumber>
-  <DirectUrl><![CDATA[https://srv1.botstack.host:8001/aim/AIM-System-V2.0-20170805-OFFICIAL-oneplus2.zip]]></DirectUrl> 
+  <VersionName>AIM-System-V2.5-20170924-OFFICIAL-oneplus2</VersionName>
+  <VersionNumber type="integer">20170924</VersionNumber>
+  <DirectUrl><![CDATA[https://srv1.botstack.host:8001/aim/AIM-System-V2.5-20170924-OFFICIAL-oneplus2.zip]]></DirectUrl> 
   <HttpUrl><![CDATA[https://srv1.botstack.host:8001/aim/]]> </HttpUrl>/>
   <Android>7.1.2</Android>
-  <CheckMD5><![CDATA[33d0766300b9a8856d43b998ecdbb29d]]></CheckMD5>
-  <FileSize type="integer">570005254</FileSize>
+  <CheckMD5><![CDATA[25047060a7db3ddb1cb12aeb5ab180a6]]></CheckMD5>
+  <FileSize type="integer">565807856</FileSize>
   <Developer>anupritaisno1</Developer>
-  <WebsiteURL><![CDATA[httpss://forum.xda-developers.com/oneplus-2/development/rom-aim-rom-t3620010]]></WebsiteURL>
-  <DonateURL><![CDATA[httpss://www.paypal.me/AIMroms]]></DonateURL>
-  <Changelog> <![CDATA[ initital ota bringup
-	  improved ext4 write speed
-	  merged july patches in kernel
+  <WebsiteURL><![CDATA[https://forum.xda-developers.com/oneplus-2/development/rom-aim-rom-t3620010]]></WebsiteURL>
+  <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
+  <Changelog> <![CDATA[EAS support
+	  optimise more aggressively
+	  merged september patches in kernel
+	  fixed blueborne vulnerability
+	  removed unnexessary configs from kernel
+	  applied kernel hardening for improved security
+	  enabled framework sched boost (EAS)
+	  enabled schedboost
+	  fix a data corruption issue on kernel panic
+	  fixed information disclisure vulnerability in /proc/cmdline
+	  some changes from lineageos
+	  interactive, userspace and powersave governors are now removed
+	  EAS enabled at boot
 	  fixed cves
 	  ]]></Changelog>
-  <AddonCount>1</AddonCount>
-  <AddonsURL><![CDATA[httpss://raw.githubusercontent.com/GlassROM-devices/o/o/addons.xml]]></AddonsURL>
 </ROM>
