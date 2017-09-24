@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.5-20170903-OFFICIAL-ido</VersionName>
-<VersionNumber type="integer">20170903</VersionNumber>
-<DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aimroms/ido/AIM-System-V2.5-20170903-OFFICIAL-ido.zip]]></DirectUrl>
+<VersionName>AIM-System-V2.5-20170924-OFFICIAL-ido-FINAL</VersionName>
+<VersionNumber type="integer">20170924</VersionNumber>
+<DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aimroms/ido/AIM-System-V2.5-20170924-OFFICIAL-ido-FINAL.zip]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/ido/]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>a6188dd9f46e43fc9f4901f31b142d29</CheckMD5>
-<FileSize type="integer">589738059</FileSize>
+<CheckMD5>d9bad8b5656488f0639c262dcc1f94be</CheckMD5>
+<FileSize type="integer">589657113</FileSize>
 <Developer><![CDATA[Albert I (krasCGQ)]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/redmi-3/development/rom-aim-rom-v2-0-t3647040]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
 <Changelog>
 <![CDATA[
-# Quick Update:
+# AIMROM September Update:
 
-- Fixed missing Status Bar settings (0902)
-- Fixed AIMWizard crashing (0903)
-
-# AIMROM V2.5 UPDATE!
-
-- Merge August security patch
+- Merge September security patch
+- Final Nougat Released
 - Add support for Snapdragon LLVM toolchain (SDClang)
 - Add support for boost framework
 - Add support for fling velocities
@@ -58,9 +54,16 @@
 
 # Xiaomi Redmi 3 (ido) specific changes:
 
-- First build compiled using SDClang (for real!)
-- Merged kernel changes from CAF LA.BR.1.2.9-03610-8x16.0 tag
-- Up-to-date SDcardFS driver
+- Up-to-date device-specific changes from LineageOS
+- Build fingerprint update to V8.5.2.0.LAIMIED
+- Blueborne vulnerability fix at kernel level
+- Support for Global Phone and CDMA options
+- Screencast (or Miracast) feature enabled
+- sRGB toggle hidden from developer options
+- dex2oat optimizations
+- ril-daemon group updates
+- Allowed GMS to access persistent data partition
+- Reduced debugging
 
 ---
 
