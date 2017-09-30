@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.5-20170906-OFFICIAL-kiwi</VersionName>
-<VersionNumber type="integer">20170906</VersionNumber>
-<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kiwi/AIM-System-V2.5-20170906-OFFICIAL-kiwi.zip/download]]></DirectUrl>
-<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=817550096634797586]]></HttpUrl>
+<VersionName>AIM-System-V2.5-20170926-OFFICIAL-kiwi-FINAL.zip</VersionName>
+<VersionNumber type="integer">20170926</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kiwi/AIM-System-V2.5-20170926-OFFICIAL-kiwi-FINAL.zip/download]]></DirectUrl>
+<HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=745849072291677517]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>629512253170fd85a5eb798e6db52149</CheckMD5>
-<FileSize type="integer">490639292</FileSize>
+<CheckMD5>206f944471ad7ba050c755e16d2822c2</CheckMD5>
+<FileSize type="integer">495944438</FileSize>
 <Developer><![CDATA[Mumit Ahmed]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/honor-5x/development/rom-aim-rom-t3623006]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
