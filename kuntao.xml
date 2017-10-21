@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AIM-ROM</RomName>
-  <VersionName>AIM-System-V2.5-20171011-UNOFFICIAL-kuntao-FINAL</VersionName>
-  <VersionNumber type="integer">20171011</VersionNumber>
-  <DirectUrl><![CDATA[https://dc4.androidfilehost.com/dl/g_zOyu6PG6Yrfcbk2U-q1w/1508737811/745849072291680567/AIM-System-V2.5-20171011-UNOFFICIAL-kuntao-FINAL.zip]]></DirectUrl>
-  <HttpUrl><![CDATA[https://www.androidfilehost.com/?fid=745849072291680567]]></HttpUrl>
+  <VersionName>AIM-System-V2.5-20171020-OFFICIAL-kuntao-FINAL</VersionName>
+  <VersionNumber type="integer">20171020</VersionNumber>
+  <DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kuntao/AIM-System-V2.5-20171020-OFFICIAL-kuntao-FINAL.zip/download]]></DirectUrl>
+  <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kuntao/]]></HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>9acb770ac9d442a1f7b5c34b29072d9d</CheckMD5>
-  <FileSize type="integer">517052825</FileSize>
-  <Developer><![CDATA[arghyac35]]></Developer>
+  <CheckMD5>b84c24963e6d77af1180c015b19f79ff</CheckMD5>
+  <FileSize type="integer">518206259</FileSize>
+  <Developer><![CDATA[Arghya Chanda(arghyac35)]]></Developer>
   <WebsiteURL><![CDATA[https://forum.xda-developers.com/lenovo-p2/development/rom-aim-rom-v2-0-t3687681]]></WebsiteURL>
   <DonateURL nil="true" />
-  <Changelog>### Changelog 20171011
+  <Changelog>### Changelog 20171020
 <![CDATA[
 # AIMROM V2.5 UPDATE!
 -Merge October security patch
@@ -19,8 +19,8 @@
 #Let's AIM-ify
 ---
 # Note : 
-_Clean flash is  recommended. Bug reports are not appreciated without Logcat.
-Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
+Clean flash is  recommended. Bug reports are not appreciated without Logcat.
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs.
 ---
 ]]></Changelog>
 </ROM>
