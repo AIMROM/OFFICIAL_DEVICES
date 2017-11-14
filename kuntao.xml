@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AIM-ROM</RomName>
-  <VersionName>AIM-System-V2.5-20171106-OFFICIAL-kuntao-FINAL</VersionName>
-  <VersionNumber type="integer">20171106</VersionNumber>
-  <DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kuntao/AIM-System-V2.5-20171106-OFFICIAL-kuntao-FINAL.zip/download]]></DirectUrl>
+  <VersionName>AIM-System-V2.5-20171113-OFFICIAL-kuntao-FINAL</VersionName>
+  <VersionNumber type="integer">20171113</VersionNumber>
+  <DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kuntao/AIM-System-V2.5-20171113-OFFICIAL-kuntao-FINAL.zip/download]]></DirectUrl>
   <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kuntao/]]></HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>1605dd080b7edbfc895db6d033459b35</CheckMD5>
+  <CheckMD5>cbc338cdb92ca99e4f8603873e327a57</CheckMD5>
   <FileSize type="integer">518206259</FileSize>
   <Developer><![CDATA[Arghya Chanda(arghyac35)]]></Developer>
   <WebsiteURL><![CDATA[https://forum.xda-developers.com/lenovo-p2/development/rom-aim-rom-v2-0-t3687681]]></WebsiteURL>
   <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
-  <Changelog>### Changelog 20171106
+  <Changelog>### Changelog 20171113
 <![CDATA[
 # AIMROM V2.5 UPDATE!
 -Merge October security patch
@@ -20,11 +20,10 @@
 
 # Lenovo P2 (kuntao) specific changes:-
 
--Fixed glove mode
--Fixed LEDs (thx mikeng)
--Switched to oss audio hal (thx to highwaystar)
--Added color mode
--Merged caf tag LA.UM.5.6.r1-06100-89xx.0 in kernel
+-update prime (wifi driver) to LA.UM.5.6.r1-06200-89xx.0
+-Fixed fp gestures thx highwaystar
+-Reverted to stock audio hal for now oss is little unstable
+-google assistant is triggered when homebutton is pressed twice instead of long press
 
 ---
 
