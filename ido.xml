@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.5-20171027-OFFICIAL-ido-FINAL</VersionName>
-<VersionNumber type="integer">20171027</VersionNumber>
-<DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aimroms/ido/AIM-System-V2.5-20171027-OFFICIAL-ido-FINAL.zip]]></DirectUrl>
+<VersionName>AIM-System-V2.5-20171119-OFFICIAL-ido-FINAL</VersionName>
+<VersionNumber type="integer">20171119</VersionNumber>
+<DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aimroms/ido/AIM-System-V2.5-20171119-OFFICIAL-ido-FINAL.zip]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/ido/]]></HttpUrl>
 <Android>7.1.2</Android>
-<CheckMD5>5b7b180441ddbe698d2287f9e9518cf9</CheckMD5>
-<FileSize type="integer">588414741</FileSize>
+<CheckMD5>e425c11f5b71528933ce6453d6dc43c6</CheckMD5>
+<FileSize type="integer">588101649</FileSize>
 <Developer><![CDATA[Albert I (krasCGQ)]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/redmi-3/development/rom-aim-rom-v2-0-t3647040]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
 <Changelog>
 <![CDATA[
-# AIMROM October Update:
+# AIMROM November Update:
 
-- Merged October security patch
-- Fixed WPA2 KRACK vulnerability
-- Updated all translations
+- Merged November security patch
 - Performance enhancements and bug fixes
 
 # Let's AIM-ify
@@ -26,23 +24,10 @@
 
 # Xiaomi Redmi 3 (ido) specific changes:
 
-- Switched to user build type
-- Up-to-date device-specific changes from LineageOS
-- kernel: Switched to new kernel based on qcom cm-14.1 common kernel
-- kernel: CAF release LA.BR.1.2.9_rb1.26
-- kernel: Built with custom Linaro GCC 7.2.1 Snapshot 2017.10, optimized for Cortex-A53
-- kernel: Patched CVE-2017-13080, CVE-2017-15265
-- kernel: Rolled back prima to LA.BR.1.2.9_rb1.26
-- kernel: Stronger yama ptrace scope policy
-- kernel: GPU initial frequency lowered to 220MHz
-- kernel: qcom wakelocks blocked by default
-- kernel: Disabled rest of CPU governors
-- kernel: Available I/O schedulers: noop, deadline, CFQ, FIOPS, zen
-- kernel: FIOPS at boot and zen as default I/O scheduler
-- kernel: Available TCP congestion algorithms: westwood+, cubic, reno, veno, Vegas, Illinois
-- kernel: TCP congestion algorithm switched to Vegas by default
-- kernel: Entropy values set to 512/128 by default
-- kernel: Some other changes, but not mentioned here to prevent changelog from flooding your screen :P
+- Update build fingerprint to V8.5.3.0.LAIMIED
+- Dropped FM Radio support
+- kernel, prima: CAF release LA.BR.1.2.9_rb1.27
+- kernel: Linux 3.10.108 (EOL)
 
 ---
 
