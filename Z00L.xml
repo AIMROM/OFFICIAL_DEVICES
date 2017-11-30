@@ -1,62 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.0-20170803-OFFICIAL-Z00L</VersionName>
-<VersionNumber type="integer">20170803</VersionNumber>
-<DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aimroms/Z00L/AIM-System-V2.0-20170803-OFFICIAL-Z00L.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faimroms%2Ffiles%2FZ00L%2F&ts=1501781553&use_mirror=netix]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/Z00L/AIM-System-V2.0-20170803-OFFICIAL-Z00L.zip/download]]></HttpUrl>
-<Android>7.1.2</Android>
-<CheckMD5>e2bb44e78e8971469783b7552c438c16</CheckMD5>
-<FileSize type="integer">621805568</FileSize>
-<Developer><![CDATA[The Hercules]]></Developer>
-<WebsiteURL><![CDATA[https://forum.xda-developers.com/zenfone-2-laser/development/rom-aim-rom-t3623887]]></WebsiteURL>
+<VersionName>AIM-System-V3.0-20171129-OFFICIAL-Z00L</VersionName>
+<VersionNumber type="integer">20171129</VersionNumber>
+<DirectUrl><![CDATA[https://nl2.androidfilehost.com/dl/eoq1-du2Dk4jEDYzSwtreQ/1512283315/817906626617949801/AIM-System-V3.0-20171129-OFFICIAL-Z00L.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://androidfilehost.com/?fid=817906626617949801]]></HttpUrl>
+<Android>8.0.0</Android>
+<CheckMD5>8e1297224f8c575d4510c18b72b5d651</CheckMD5>
+<FileSize type="integer">604294349</FileSize>
+<Developer><![CDATA[Riad Khan]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/zenfone-2-laser/development/official-aim-rom-v3-0-z00t-l-t3712526]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
 <Changelog>
 <![CDATA[
-#  AIMROM July Update :
+#  AIMROM V3 OREO UPDATE  :
+-- must do cleanflash
+====================
+     11-15-2017
+====================
+   * frameworks/base/
+f4fa2a7  Ayyy LMAO  [Anand Ramachandran]
+   * vendor/aim/
+1384b9a  Add AIMOTA (3/3)  [Anand Ramachandran]
+====================
+     11-14-2017
+====================
+   * frameworks/base/
+aa35676  QS: add Screenrecord tile @xyyx: adapted to O  [Anand Ramachandran]
+  Add Screen Record to the Power Menu [1/2]  [Anand Ramachandran]
+24c99ae  Add a timer to screen record  [Anand Ramachandran]
+e609a68  Save screenrecord in "Screenrecords" directory  [Anand Ramachandran]
+bca8a3b  base: bring back screenrecord  adapt for O  [Anand Ramachandran]
+345e4fd  Add NavBar toggle [1/2]  [Anand Ramachandran]
+cb2f4fb  Slim Recents 3.0 [1/3]  [Anand Ramachandran]
+50d4fae  Vectorized the power menu sound panel selector  [Anand Ramachandran]
+4f64845  BatteryService: add dash charging support  [Anand Ramachandran]
+b87dd76  Skip send broadcast to the receiver whoes user has not started.  [Anand Ramachandran]
+0a2cdf3  Ticker: halt it when entering Ambient display  [Anand Ramachandran]
+7f79c7b  Notification ticker: fix FC  [Anand Ramachandran]
+ea9ba6f  Add make_unique function for jni  [Anand Ramachandran]
+93c823d  Add support for overriding default time format value  [Anand Ramachandran]
+a6275c9  ViewConfiguration: Align coding style to AOSP  [Anand Ramachandran]
+1a46fde  ViewConfiguration: add support for max/min fling velocity sysproperties  [Anand Ramachandran]
+5f93096  jni: FingerprintService: use fastJni for nativeAuthenticate  [Anand Ramachandran]
+ed80f36  core: jni: AudioTrack: enable fastJni for some methods  [Anand Ramachandran]
+ed6a780  ColorFade: fix EGL crash on exynos4 mali blobs  [Anand Ramachandran]
+0ccbe9d  aapt: Fix compiler warning (clobbered by longjmp)  [Anand Ramachandran]
+e3f1bac  aapt: add check for untranslatable "string-array"s  [Anand Ramachandran]
+8e1dfeb  aapt: Use a std::map instead of a SortedVector  [Anand Ramachandran]
+c9cea47  aapt: Speed up the style pruning  [Anand Ramachandran]
+   * manifest/
+622bfd4  Track SlimRecents  [Anand Ramachandran]
+   * packages/apps/SlimRecents/
+1dc6a29  Set fast mode (never expanded) as default [1/2]  [Anand Ramachandran]
+2ee12d9  Fast mode card new card options icon  [Anand Ramachandran]
+3babbc9  Cleanup  [Anand Ramachandran]
+29dfce4  Make cards a bit taller  [Anand Ramachandran]
+ed22f79  Card options: new anim, dynamic colors, hide on exit, improvements  [Anand Ramachandran]
+b1a4516  Make "never expanded" mode FaF (fast as fuc# TM)  [Anand Ramachandran]
+bc54a24  Refresh app ActivityInfo on app removal  [Anand Ramachandran]
+5607568  Make cards refresh more reliable and cleanup some code  [Anand Ramachandran]
+bca920c  Fix wrong card positions after card removal  [Anand Ramachandran]
+14cc773  Fix FC when double tapping for last app and there's only one app  [Anand Ramachandran]
+4d49e70  Slim Recents 3.0 [2/3]  [Anand Ramachandran]
+2b117cd  Fix thumbnail access for task snapshots on Oreo  [Anand Ramachandran]
+   * packages/apps/freedomhub/
+9dd61ba  Add missing strings and layout  [Anand Ramachandran]
+6541d64  Toggle VoLTE icon  from freedomhub  [Anand Ramachandran]
+6ea38d3  Add Screen Record to the Power Menu [2/2]  [Anand Ramachandran]
+64558be  Add NavBar toggle [2/2]  [Anand Ramachandran]
+3c55637  Set fast mode (never expanded) as default [2/2]  [Anand Ramachandran]
+dc70bfd  Slim Recents fast engine mode [2/2]  [Anand Ramachandran]
+a579230  SlimRecents b.l. PackageListAdapter: really sync mInstalledPackages  [Anand Ramachandran]
+ecb9bf2  Slim Recents 3.0 [3/3]  [Anand Ramachandran]
+====================
+     11-13-2017
+====================
+   * frameworks/base/
+6f6a875  Fix FreedomHub QSTile derps  [klabit87]
+8a4486d  Add Freedomhub QuickTile  [Anand Ramachandran]
+9cc349a  Add Pixel navbar icons  [Rpingat]
+   * manifest/
+05bd2a7  Track DocumentsUI from aim  [Rpingat]
+   * packages/apps/DocumentsUI/
+7323dcb  Fix crash on use of Adaptive icon  [Rpingat]
+ad8e75a  DocumentsUI: Enable extra features  [Rpingat]
+   * packages/apps/Settings/
+24ce182  Just a small change (#37)  []
+====================
+     11-12-2017
+====================
+   * development/
+b846860  Merge tag 'android-8.0.0_r32' of https://android.googlesource.com/platform/development into o  [Anand Ramachandran]
+   * frameworks/base/
+ecc55e4  Adapt VoLTE icon toggle for statusbar  [Anand Ramachandran]
+91a15a7  binder: adjust GC interval for binder ops  [Anand Ramachandran]
+2c9b8a3  BT:Crash occured due to null pointer exception.  [Anand Ramachandran]
+9ca8b04  Bluetooth: Avoiding NULL pointer dereferences  [Anand Ramachandran]
+8e82297  BT: Multi A2dp support in Settings App.  [Anand Ramachandran]
+92e16e1  Fix wrong id that breaks removing icon padding  [Anand Ramachandran]
+   * packages/apps/freedomhub/
+00f164c  Let's go (#3)   update strings  [Anand Ramachandran]
+====================
+     11-11-2017
+====================
+   * frameworks/base/
+badb590  check for context  [Anand Ramachandran]
+   * manifest/
+c84ea5f  Update Caf hals tracking  [Anand Ramachandran]
+   * vendor/aim/
+9c08866  Revert "hax: Force CAF qcom bt/wlan pathmap to AOSP"  [Anand Ramachandran]
+c7bffc2  hax: Force CAF qcom bt/wlan pathmap to AOSP  [Michael Di Giacomi]
+b9ceb2e  Change Display Version  [Michael Di Giacomi]
+6744838  kernel: clean up this madness  [Michael Di Giacomi]
 
-- Merge July security patch
-- Fix launch of music player on headset connect after reboot
-- Music player on headset connect: Add bluetooth compatibility
-- Add safe headset volume option
-- Optimise HWUI
-- Switch to Chromium webview
-- Fix wrong peek height of notification panel
-- Speed up fingerprint wakeup and unlock scenario
-- Fix camera shutter sound toggle
-- Fix many random crashes
-- Add HW home button wake
-- Improve night mode
-- Improve QS tiles
-- Add ADB Over Network support and QS tile
-- Fix network arrows not showing when data save was enabled
-- Fix various NPEs
-- Fix memory leaks and errors
-- Switch to Launcer3 (Pixel UI + Icon pack support)
-- Change internal shared storage icon progress bar accent
-- Add boot option in AppOps
-- Add new smart bar icons
-- Add left navigation bar pulse support
-- Fix memory corruption on sound trigger
-- Option to display disabled data indicator icons
-- Add option to enable button backlight only when the button is pressed
-- Set GBoard theme to pixel by default
-- AIM OTA is completely themable now
-- Add support for Crowdin
-- Fix icon themeing on Valerie and few more themes
-- Fix hiding of developer options
-- Fix smartbar DPI updation
-- Update all translations
-- Update all pre-built packages 
-- Update all source-built packages
-- Bug fixes and performance improvements
 
----
+---BUGS
+--- You Tell Me
+
 
 # Note : 
 
-_Clean flash is  recommended. Bug reports are not appreciated without Logcat.
-Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
+_CLEAN FLASH IS MUST SINCE IT IS OREO 
 
 ---
 
