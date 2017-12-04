@@ -1,63 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.5-20170921-OFFICIAL-bullhead-FINAL.zip</VersionName>
-<VersionNumber type="integer">20170921</VersionNumber>
-<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/AIM-System-V2.5-20170921-OFFICIAL-bullhead-FINAL.zip/download]]></DirectUrl>
-<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/]]></HttpUrl>
-<Android>7.1.2</Android>
-<CheckMD5>a160bac3e223d2668ec2f06b01d08c51</CheckMD5>
-<FileSize type="integer">424337255</FileSize>
-<Developer><![CDATA[Manik Chathli]]></Developer>
-<WebsiteURL><![CDATA[https://forum.xda-developers.com/nexus-5x/development/rom-aim-rom-t3619663]]></WebsiteURL>
-<DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
-<Changelog>
-<![CDATA[
-#  AIMROM September Update :
--Merge September security patch
--Final Nougat Released
--Add support for Snapdragon LLVM toolchain (SDClang)
--Add support for boost framework
--Add support for fling velocities
--Added Colorengine
--Added Xosp Blur personalization
--Added AOKP Transition animations
--Added New battery style
--Enable/Disable kill button on notification guts
--Fix string derps
--Fix In-Call vibrations
--Animate icon while locking a task
--Fix Lockscreen shortcut icons disappearing after reboot
--Make button long press delay configurable in SmartBar
--Fix layout of system header
--Fix task lock and free form button placement
--Fix Dex2oat
--Fix In-Call timer bug
--Fixed a npe
--Fix theme issues in screen pinning mode
--Disable home button wake on devices with sensitive HW buttons
--Add check for accidental touch
--Add pocket lock and pocket judge
--Doze Service: Fallback to tilt sensor as pickup sensor for ambient display
--Fix many memory leaks 
--Option to block sensor for certain packages
--Fix few NPEs
--Increase sensitive numbers support
--Update all translations
--Update all pre-built packages
--Performance enhancements and bug fixes
-
-#Let's AIM-ify
-
----
-# Note : 
-_Clean flash is  recommended. Bug reports are not appreciated without Logcat.
-Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
----
-]]>
-</Changelog>
-<AddonCount>3</AddonCount>
-<AddonsURL>
-https://goo.gl/KUWru6
-</AddonsURL>
-</ROM>
+<VersionName>AIM-System-V3.0-20171204-OFFICIAL-bullhead</VersionName>
+<VersionNumber type="integer">20171204</VersionNumber>
+<DirectUrl><![CDATA[https://drive.google.com/file/d/1ekGMbdzT2jsQcO6WT7tubN-UQ0bA-BL-/view?usp=drivesdk]]></DirectUrl> 
+<HttpUrl><![CDATA[https://drive.google.com/file/d/1ekGMbdzT2jsQcO6WT7tubN-UQ0bA-BL-/view?usp=drivesdk]]></HttpUrl> 
+<Android>8.0.0</Android> 
+<CheckMD5>a9d33ae8998d9842313725f60c31b51c</CheckMD5>
+<FileSize type="integer">353521963</FileSize> 
+<Developer><![CDATA[Anirudh Gupta]]></Developer> 
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/member.php?u=7824313]]></WebsiteURL> 
+<DonateURL><![CDATA[https://www.paypal.me/anirudhgupta109]]></DonateURL>
+<Changelog> <![CDATA[ Initial Official release for Bullhead
+ ---BUGS --- You Tell Me # Note : _CLEAN ></Changelog> 
+ <AddonCount>3</AddonCount>
+ <AddonsURL> https://goo.gl/KUWru6 </AddonsURL> 
+ </ROM>
