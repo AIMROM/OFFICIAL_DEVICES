@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V3.0-20171205-OFFICIAL-bullhead</VersionName>
-<VersionNumber type="integer">20171205</VersionNumber>
+<VersionName>AIM-System-V3.0-20171205-OFFICIAL-bullhead-Sysserv</VersionName>
+<VersionNumber type="integer">201712050</VersionNumber>
 <DirectUrl><![CDATA[https://drive.google.com/file/d/10lmKLT5_IsdMye_H7E2ft3rvzhyyl6PV/view?usp=drivesdk]]></DirectUrl> 
 <HttpUrl><![CDATA[https://drive.google.com/file/d/10lmKLT5_IsdMye_H7E2ft3rvzhyyl6PV/view?usp=drivesdk]]></HttpUrl> 
 <Android>8.0.0</Android> 
