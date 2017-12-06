@@ -3,8 +3,8 @@
 <RomName>AIM-ROM</RomName>
 <VersionName>AIM-System-V3.0-20171206-OFFICIAL-bullhead</VersionName>
 <VersionNumber type="integer">20171206</VersionNumber>
-<DirectUrl><![CDATA[https://drive.google.com/file/d/1HN4UczRVl0ne5Xxfqu2Ej0Vc8INg2X0V/view?usp=drivesdk]]></DirectUrl> 
-<HttpUrl><![CDATA[https://drive.google.com/file/d/1HN4UczRVl0ne5Xxfqu2Ej0Vc8INg2X0V/view?usp=drivesdk]]></HttpUrl> 
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/AIM-System-V3.0-20171206-OFFICIAL-bullhead.zip/download]]></DirectUrl> 
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/AIM-System-V3.0-20171206-OFFICIAL-bullhead.zip/download]]></HttpUrl> 
 <Android>8.0.0</Android> 
 <CheckMD5>048d038d3eb466abd887ec39e436a257</CheckMD5>
 <FileSize type="integer">367389001</FileSize> 
