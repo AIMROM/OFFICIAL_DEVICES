@@ -1,17 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V3.0-20171206-OFFICIAL-bullhead</VersionName>
-<VersionNumber type="integer">20171206</VersionNumber>
-<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/AIM-System-V3.0-20171206-OFFICIAL-bullhead.zip/download]]></DirectUrl> 
-<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/AIM-System-V3.0-20171206-OFFICIAL-bullhead.zip/download]]></HttpUrl> 
+<VersionName>AIM-System-V3.0-20171208-OFFICIAL-bullhead</VersionName>
+<VersionNumber type="integer">20171208</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/AIM-System-V3.0-20171208-OFFICIAL-bullhead.zip/download]]></DirectUrl> 
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/AIM-System-V3.0-20171208-OFFICIAL-bullhead.zip/download]]></HttpUrl> 
 <Android>8.0.0</Android> 
-<CheckMD5>048d038d3eb466abd887ec39e436a257</CheckMD5>
-<FileSize type="integer">367389001</FileSize> 
+<CheckMD5>7e67360f443b6577a83fbc6b30834555</CheckMD5>
+<FileSize type="integer">367384835</FileSize> 
 <Developer><![CDATA[Anirudh Gupta]]></Developer> 
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/member.php?u=7824313]]></WebsiteURL> 
 <DonateURL><![CDATA[https://www.paypal.me/anirudhgupta109]]></DonateURL>
-<Changelog> <![CDATA[====================
+<Changelog> <![CDATA[
+====================
+     12-08-2017
+====================
+
+   * build/make/
+3b413c3  build: Introduce SubstratumService  [anirudhgupta109]
+   * frameworks/base/
+58f936c  Extras: Add dynamic theme shutdown and boot animation support  [anirudhgupta109]
+b595b1f  OMS: Add back overlay modified callback implementation  [anirudhgupta109]
+3ff50f8  OMS: Add dynamic theme fonts support for O  [anirudhgupta109]
+2389b41  base: Introduce SubstratumService  [anirudhgupta109]
+b3e6a7c  OMS: StrictMode and files under /data/system/theme/  [anirudhgupta109]
+f821488  Hold "volume up" during boot to disable all overlays  [anirudhgupta109]
+f93cde3  ThemeSafety: Introduce App Crash Intent  [anirudhgupta109]
+9634aff  ApplicationsState: add filter for Substratum overlays [2/2]  [anirudhgupta109]
+6e7bd78  Extras: Add dynamic theme sound effects support  [anirudhgupta109]
+   * packages/apps/Settings/
+7e0ca43  Settings: Introduce Substratum changes.  [anirudhgupta109]
+   * system/sepolicy/
+750b5e7  Introduce sepolicy exceptions for theme assets  [anirudhgupta109]
+de10c2a  Initial sepolicy rules for substratum service  [anirudhgupta109]
+
+====================
+     12-07-2017
+====================
+
+   * frameworks/base/
+c7ff63f  Merge pull request #10 from anirudhgupta109/o  [GitHub]
+11b2d5f  Remove duplicate function  [GitHub]
+0e4d0bc  Merge pull request #9 from anirudhgupta109/o  [GitHub]
+f12f274  Vibrate on plug [1/2]  [anirudhgupta109]
+bcfd8a9  Fingerprints: Increase MAX_FAILED_ATTEMPTS  [anirudhgupta109]
+   * packages/apps/Settings/
+237432d  Fix 3 derps that i made! Thanks to @MSFJarvis and @AllstarGaurav for the help (#42)  [Anand Ramachandran]
+244a104  Merge pull request #41 from anirudhgupta109/o  [GitHub]
+4aa23d2  Added vibrate when plugged manually  [anirudhgupta109]
+c1585fd  Move Gestures options to their own menu under System settings  [anirudhgupta109]
+====================
      12-05-2017
 ====================
 
