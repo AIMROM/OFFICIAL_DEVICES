@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V3.0-20171211-OFFICIAL-bullhead</VersionName>
-<VersionNumber type="integer">20171211</VersionNumber>
-<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/AIM-System-V3.0-20171211-OFFICIAL-bullhead.zip/download]]></DirectUrl> 
-<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/AIM-System-V3.0-20171211-OFFICIAL-bullhead.zip/download]]></HttpUrl> 
+<VersionName>AIM-System-V3.0-20171215-OFFICIAL-bullhead</VersionName>
+<VersionNumber type="integer">20171215</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/AIM-System-V3.0-20171215-OFFICIAL-bullhead.zip/download]]></DirectUrl> 
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/bullhead/AIM-System-V3.0-20171215-OFFICIAL-bullhead.zip/download]]></HttpUrl> 
 <Android>8.0.0</Android> 
-<CheckMD5>02f2f5ad2bddcfc7414a2706aab5e75f</CheckMD5>
+<CheckMD5>014a3e57cbd83b55af93d6c4f896a984</CheckMD5>
 <FileSize type="integer">367396504</FileSize> 
 <Developer><![CDATA[Anirudh Gupta]]></Developer> 
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/nexus-5x/development/rom-aim-rom-v3-0-t3716367/post74813726]]></WebsiteURL> 
 <DonateURL><![CDATA[https://www.paypal.me/anirudhgupta109]]></DonateURL>
 <Changelog> <![CDATA[
-NOTE: This build includes a potential fix for the APN issue, please report at the XDA thread if it hasnt fixed.
+NOTE: This build includes the custom Substratum Sysserv commits!
 NOTE: I need some testers for Bullhead over at our Telegram group, its in the XDA OP, please do join
 ====================
      12-11-2017
