@@ -1,43 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <ROM>
-  <RomName>AIM-ROM</RomName>
-  <VersionName>AIM-System-V2.5-20171213-OFFICIAL-kuntao-FINAL</VersionName>
-  <VersionNumber type="integer">20171213</VersionNumber>
-  <DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kuntao/AIM-System-V2.5-20171213-OFFICIAL-kuntao-FINAL.zip/download]]></DirectUrl>
-  <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kuntao/]]></HttpUrl>
-  <Android>7.1.2</Android>
-  <CheckMD5>8cacc9c1d3969611ea9422ad9b42c5ec</CheckMD5>
-  <FileSize type="integer">518940032</FileSize>
-  <Developer><![CDATA[Arghya Chanda(arghyac35)]]></Developer>
-  <WebsiteURL><![CDATA[https://forum.xda-developers.com/lenovo-p2/development/rom-aim-rom-v2-0-t3687681]]></WebsiteURL>
-  <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
-  <Changelog>### Changelog 20171213
-<![CDATA[
-# AIMROM November UPDATE!
--Merge December 2017 security patch
+<RomName>AIM-ROM</RomName>
+<VersionName>AIM-System-V3.1-20180109-OFFICIAL-kuntao</VersionName>
+<VersionNumber type="integer">20180109</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kuntao/AIM-System-V3.1-20180109-OFFICIAL-kuntao.zip/download]]></DirectUrl> 
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kuntao]]></HttpUrl> 
+<Android>8.1.0</Android> 
+<CheckMD5>66e7d30cc87906f568b90ce267f16f30</CheckMD5>
+<FileSize type="integer">466092032</FileSize> 
+<Developer><![CDATA[Arghya Chanda]]></Developer> 
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/lenovo-p2/development/rom-aim-rom-v3-1-t3732720]]></WebsiteURL> 
+<DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
+<Changelog> <![CDATA[
+#  AIMROM V3.1 OREO UPDATE  :
+-- Initial Official Oreo release for Kuntao
 
-# Let's AIM-ify
-
-# Lenovo P2 (kuntao) specific changes:-
-
---update prime (wifi driver) to LA.UM.5.6.r1-06200-89xx.0
---Fixed fp gestures thx highwaystar
---Reverted to stock audio hal for now oss is little unstable
---google assistant is triggered when homebutton is pressed twice instead of long press
-
----
+---BUGS (known device specific bugs)
+---Other You Tell Me
 
 # Note : 
-
-_Clean flash is  recommended. Bug reports are not appreciated without Logcat.
-Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
-
+_CLEAN FLASH IS MUST SINCE IT IS OREO 
 ---
 
-]]>
-</Changelog>
-<AddonCount>3</AddonCount>
-<AddonsURL>
-https://goo.gl/KUWru6
-</AddonsURL>
-</ROM>
+]]></Changelog> 
+ <AddonCount>3</AddonCount>
+ <AddonsURL> https://goo.gl/KUWru6 </AddonsURL> 
+ </ROM>
