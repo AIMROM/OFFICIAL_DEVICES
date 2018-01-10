@@ -11,12 +11,13 @@
   <Developer><![CDATA[Arghya Chanda(arghyac35)]]></Developer>
   <WebsiteURL><![CDATA[https://forum.xda-developers.com/lenovo-p2/development/rom-aim-rom-v2-0-t3687681]]></WebsiteURL>
   <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
-  <Changelog>### Changelog 20171213
-<![CDATA[
-# AIMROM November UPDATE!
--Merge December 2017 security patch
+  <Changelog><![CDATA[# AIMROM November UPDATE!
+
+--Merge December 2017 security patch
 
 # Let's AIM-ify
+
+---
 
 # Lenovo P2 (kuntao) specific changes:-
 
@@ -27,17 +28,8 @@
 
 ---
 
-# Note : 
+# Note :
 
 _Clean flash is  recommended. Bug reports are not appreciated without Logcat.
-Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
-
----
-
-]]>
-</Changelog>
-<AddonCount>3</AddonCount>
-<AddonsURL>
-https://goo.gl/KUWru6
-</AddonsURL>
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs._]]></Changelog>
 </ROM>
