@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>AIM-ROM</RomName>
+<VersionName>AIM-System-V3.1-20180209-OFFICIAL-jalebi</VersionName>
+<VersionNumber type="integer">20180209</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/jalebi/AIM-System-V3.1-20180209-OFFICIAL-jalebi.zip/download]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/jalebi]]></HttpUrl>
+<Android>8.1.0</Android>
+<CheckMD5>86f419e2187f28914d3622dbcccbd4f1</CheckMD5>
+<FileSize type="MB">288.9</FileSize>
+<Developer><![CDATA[Shaik Jaleel (iamsj7)]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/yu-yunique/development/rom-aim-rom-v3-0-volte-t3748493]]></WebsiteURL>
+<DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
+<Changelog>
+<![CDATA[
+#Let's AIM-ify
+---
+# Note : 
+_Clean flash is  recommended. Bug reports are not appreciated without Logcat.
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs._
+---
+]]>
+</Changelog>
+<AddonCount>3</AddonCount>
+<AddonsURL>
+https://goo.gl/KUWru6
+</AddonsURL>
+</ROM>
