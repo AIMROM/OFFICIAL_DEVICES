@@ -1,31 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AIM-ROM</RomName>
-  <VersionName>AIM-System-V2.5-20171119-OFFICIAL-ido-FINAL</VersionName>
-  <VersionNumber type="integer">20171119</VersionNumber>
-  <DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aimroms/ido/AIM-System-V2.5-20171119-OFFICIAL-ido-FINAL.zip]]></DirectUrl>
+  <VersionName>AIM-System-V3.1-20180301-OFFICIAL-ido</VersionName>
+  <VersionNumber type="integer">20180301</VersionNumber>
+  <DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aimroms/ido/AIM-System-V3.1-20180301-OFFICIAL-ido.zip]]></DirectUrl>
   <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/ido/]]></HttpUrl>
-  <Android>7.1.2</Android>
-  <CheckMD5>e425c11f5b71528933ce6453d6dc43c6</CheckMD5>
-  <FileSize type="integer">588101649</FileSize>
+  <Android>8.1.0</Android>
+  <CheckMD5>7b3e83af4f46761cab0e797fa12a4cc2</CheckMD5>
+  <FileSize type="integer">443070479</FileSize>
   <Developer><![CDATA[Albert I (krasCGQ)]]></Developer>
   <WebsiteURL><![CDATA[https://forum.xda-developers.com/redmi-3/development/rom-aim-rom-v2-0-t3647040]]></WebsiteURL>
-  <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
-  <Changelog><![CDATA[# AIMROM November Update:
+  <DonateURL><![CDATA[https://paypal.me/AIMroms]]></DonateURL>
+  <Changelog><![CDATA[# AIMROM Oreo 8.1 Changelog:
 
-- Merged November security patch
-- Performance enhancements and bug fixes
+- Merged February security patch
+- Fixed dark theming issues
+- Fixed recents misbehavior
+- Fixed LED lights switch
+- Changed default thumb type
+- Added AimWalls
+- Added new ringtones/sounds
+- Added ticker padding fix
+- Added more accent colors
+- Added framework boost
+- Added quick unlock
+- Fixed AppOps crash
+- Fixed QS tiles NPE during boot
+- Added stubs for setcursor visibility
+- Added vibrate on plug
+- Added alert on charging level
+- Added charging event sounds
+- Added battery image enable/disable
+- Added reset battery stats
+- Added password orientation feature
+- Added full substratum support (fixed bugs)
+- Disabled QS panel transparency
+- Adaptive icons for all system apps
+- More and more...
 
 # Let's AIM-ify
-
----
-
-# Xiaomi Redmi 3 (ido) specific changes:
-
-- Update build fingerprint to V8.5.3.0.LAIMIED
-- Dropped FM Radio support
-- kernel, prima: CAF release LA.BR.1.2.9_rb1.27
-- kernel: Linux 3.10.108 (EOL)
 
 ---
 
