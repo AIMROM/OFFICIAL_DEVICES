@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.5-20170827-OFFICIAL-kenzo</VersionName>
-<VersionNumber type="integer">20170827</VersionNumber>
-<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kenzo/AIM-System-V2.5-20170827-OFFICIAL-kenzo.zip/download]]></DirectUrl>
+<VersionName>AIM-System-V3.1-20180312-OFFICIAL-kenzo</VersionName>
+<VersionNumber type="integer">20180312</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kenzo/AIM-System-V3.1-20180312-OFFICIAL-kenzo.zip/download]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/kenzo/]]></HttpUrl>
-<Android>7.1.2</Android>
-<CheckMD5>253fe1f1d52ad10c243ed9cbb4844642</CheckMD5>
-<FileSize type="integer">414337255</FileSize>
-<Developer><![CDATA[coolmihir]]></Developer>
-<WebsiteURL><![CDATA[https://forum.xda-developers.com/redmi-note-3/development/rom-aim-rom-t3628121]]></WebsiteURL>
+<Android>8.1.0</Android>
+<CheckMD5>b46e268134c860d69c362edc27f0eb08</CheckMD5>
+<FileSize type="integer">469506669</FileSize>
+<Developer><![CDATA[Sarvesh]]></Developer>
+<WebsiteURL><![CDATA[https://forum.xda-developers.com/redmi-note-3/development/rom-aim-rom-v3-1-t3745740]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
 <Changelog>
 <![CDATA[
