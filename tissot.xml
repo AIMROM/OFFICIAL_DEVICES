@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V3.2-20180406-OFFICIAL-tissot</VersionName>
-<VersionNumber type="integer">20180406</VersionNumber>
-<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/tissot/AIM-System-V3.2-20180406-OFFICIAL-tissot.zip/download]]></DirectUrl>
+<VersionName>AIM-System-V3.2-20180413-OFFICIAL-tissot</VersionName>
+<VersionNumber type="integer">20180413</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/tissot/AIM-System-V3.2-20180413-OFFICIAL-tissot.zip/download]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/tissot]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>dee0479f5e8fed6ad418776e071e3f7f</CheckMD5>
-<FileSize type="integer">537300</FileSize>
+<CheckMD5>7bb8b10aa8c91f0b9eb8b52c94fd36db</CheckMD5>
+<FileSize type="integer">532100</FileSize>
 <Developer><![CDATA[(Kunal Shah)]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/mi-a1/development/rom-aim-rom-v3-2-t3773905]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
