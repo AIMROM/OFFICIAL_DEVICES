@@ -3,7 +3,7 @@
 <RomName>AIM-ROM</RomName>
 <VersionName></VersionName>
 <VersionNumber type="integer"></VersionNumber>
-<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/s2/AIM-System-V3.2-20180413-OFFICIAL-s2.zip/download]]></DirectUrl>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/s2//download]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/s2]]></HttpUrl>
 <Android>8.1.0</Android>
 <CheckMD5></CheckMD5>
