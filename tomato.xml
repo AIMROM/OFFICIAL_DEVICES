@@ -2,8 +2,8 @@
 <ROM>
 <RomName>AIM-ROM</RomName>
 <VersionName>AIM-System-V3.2-20180419-OFFICIAL-tomato</VersionName>
-<VersionNumber type="integer">20180418</VersionNumber>
-<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/Tomato/AIM-System-V3.2-20180418-OFFICIAL-tissot.zip/download]]></DirectUrl>
+<VersionNumber type="integer">20180419</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/Tomato/AIM-System-V3.2-20180419-OFFICIAL-tomato.zip/download]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/Tomato]]></HttpUrl>
 <Android>8.1.0</Android>
 <CheckMD5>532926f9440fde20e99e20c21b64518c</CheckMD5>
