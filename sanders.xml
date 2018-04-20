@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V3.2-20180412-OFFICIAL-sanders</VersionName>
-<VersionNumber type="integer">20180412</VersionNumber>
-<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/sanders/AIM-System-V3.2-20180406-OFFICIAL-sanders.zip/download]]></DirectUrl>
+<VersionName>AIM-System-V3.2-20180420-OFFICIAL-sanders</VersionName>
+<VersionNumber type="integer">20180420</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/sanders/AIM-System-V3.2-20180420-OFFICIAL-sanders.zip/download]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/sanders]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>0f0d2f7eedf9f6893d4d233d4365790c</CheckMD5>
-<FileSize type="integer">456448</FileSize>
+<CheckMD5>e7618b1257fc180ec0e1f8c82688e156</CheckMD5>
+<FileSize type="integer">502320</FileSize>
 <Developer><![CDATA[Chirayu Agrawal]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/moto-g5s-plus/development/rom-aim-rom-v3-2-t3776841]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
 <Changelog>
 <![CDATA[
 #Let's AIM-ify
+Added MOTOACTIONS
+FIXED ALL BUGS
 ---
 # Note : 
 _Clean flash is  recommended. Bug reports are not appreciated without Logcat.
