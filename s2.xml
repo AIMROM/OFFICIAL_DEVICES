@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V3.2-20180417-OFFICIAL-s2</VersionName>
-<VersionNumber type="integer">20180417</VersionNumber>
-<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/s2/AIM-System-V3.2-20180417-OFFICIAL-s2.zip/download]]></DirectUrl>
+<VersionName>AIM-System-V3.2-20180423-OFFICIAL-s2</VersionName>
+<VersionNumber type="integer">20180423</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/s2/AIM-System-V3.2-20180423-OFFICIAL-s2.zip/download]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/s2]]></HttpUrl>
 <Android>8.1.0</Android>
-<CheckMD5>bbb733286418e7b24442a36be3d0ff50</CheckMD5>
-<FileSize type="integer">511300</FileSize>
+<CheckMD5>86e49e25680402dfc8ad3092f7c51536</CheckMD5>
+<FileSize type="integer">509100</FileSize>
 <Developer><![CDATA[Tushar Ryan]]></Developer>
 <WebsiteURL><![CDATA[https://forum.xda-developers.com/le-2/development/rom-aim-rom-v3-2-t3776744]]></WebsiteURL>
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
