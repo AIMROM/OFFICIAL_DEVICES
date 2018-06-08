@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>AIM-ROM</RomName>
-<VersionName>AIM-System-V2.5-20170920-OFFICIAL-aio_otfp-FINAL.zip</VersionName>
+<VersionName>AIM-System-V2.5-20180608-OFFICIAL-aio_otfp-FINAL.zip</VersionName>
 <VersionNumber type="integer">20170718</VersionNumber>
-<DirectUrl><![CDATA[http://adambelamri.eu/Releases/Aim/AIM-System-V2.5-20170920-OFFICIAL-aio_otfp-FINAL.zip]]></DirectUrl>
+<DirectUrl><![CDATA[http://adambelamri.eu/Releases/Aim/AIM-System-V2.5-20180608-OFFICIAL-aio_otfp-FINAL.zip]]></DirectUrl>
 <HttpUrl><![CDATA[http://adambelamri.eu/?dir=Releases/Aim]]></HttpUrl>
 <Android>7.1.2</Android>
 <CheckMD5>7b7c7bba22ce1c558c07298d22a30e44</CheckMD5>
@@ -13,6 +13,10 @@
 <DonateURL><![CDATA[https://www.paypal.me/AIMroms]]></DonateURL>
 <Changelog>
 <![CDATA[
+#  AIMROM July Update :
+-Final Nougat Release For K3 Note
+-From now we have moved to 8.1 stay tuned ; )
+
 #  AIMROM September Update :
 -Merge September security patch
 -Final Nougat Released
