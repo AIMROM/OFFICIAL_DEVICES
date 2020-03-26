@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+    <RomName>AIM-ROM</RomName>
+    <VersionName>AIM-System-V2.5-20200325-OFFICIAL-scale-FINAL</VersionName>
+    <VersionNumber type="integer">20200325</VersionNumber>
+    <DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aimroms/scale/AIM-System-V2.5-20200325-OFFICIAL-scale-FINAL.zip]]></DirectUrl>
+    <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/scale/]]></HttpUrl>
+    <Android>7.1.2</Android>
+    <CheckMD5>e0fe0a0124c9758a58bd8b66600cb9e3</CheckMD5>
+    <FileSize type="integer">408280817</FileSize>
+    <Developer><![CDATA[Albert I (krasCGQ)]]></Developer>
+    <WebsiteURL><![CDATA[]]></WebsiteURL>
+    <DonateURL><![CDATA[https://paypal.me/AIMroms]]></DonateURL>
+    <Changelog><![CDATA[# Let's AIM-ify
+
+---
+
+# Note:
+
+_Clean flash is recommended. Bug reports are not appreciated  without a proper evidences such as logcat screenshots etc.
+Builds will be available soon when maintainers will get free time. So don't ask for ETAs._]]></Changelog>
+</ROM>
