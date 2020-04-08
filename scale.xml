@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-    <RomName>AIM-ROM</RomName>
-    <VersionName>AIM-System-V2.5-20200325-OFFICIAL-scale-FINAL</VersionName>
-    <VersionNumber type="integer">20200325</VersionNumber>
-    <DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aimroms/scale/AIM-System-V2.5-20200325-OFFICIAL-scale-FINAL.zip]]></DirectUrl>
+    <RomName>AIMROM</RomName>
+    <VersionName>AIM-System-V2.5-20200408-OFFICIAL-scale-FINAL</VersionName>
+    <VersionNumber type="integer">20200408</VersionNumber>
+    <DirectUrl><![CDATA[https://downloads.sourceforge.net/project/aimroms/scale/AIM-System-V2.5-20200408-OFFICIAL-scale-FINAL.zip]]></DirectUrl>
     <HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/scale/]]></HttpUrl>
     <Android>7.1.2</Android>
-    <CheckMD5>e0fe0a0124c9758a58bd8b66600cb9e3</CheckMD5>
-    <FileSize type="integer">408280817</FileSize>
+    <CheckMD5>361199142a4823018be625e83b80448d</CheckMD5>
+    <FileSize type="integer">408574117</FileSize>
     <Developer><![CDATA[Albert I (krasCGQ)]]></Developer>
     <WebsiteURL><![CDATA[]]></WebsiteURL>
     <DonateURL><![CDATA[https://paypal.me/AIMroms]]></DonateURL>
-    <Changelog><![CDATA[# Let's AIM-ify
+    <Changelog><![CDATA[### Let's AIM-ify
+
+* Merged March 2020 ASB in ROM
+* Updated blobs from picmt
+* Upstreamed kernel to LA.BR.1.2.9.c26-00600-8x09.0 with Linux 3.10.108 (EOL)
+* Upstreamed prima to LA.BR.1.3.7.c25-07400-8976.0
+
+### Currently known issues
+
+* Despite having stock bluetooth blobs, bluetooth MAC will be randomized every boot (failed attempt to decrypt?).
+* WiFi MAC address decryption with libwcnss_qmi seldom to work.
 
 ---
 
-# Note:
+### Note:
 
 _Clean flash is recommended. Bug reports are not appreciated  without a proper evidences such as logcat screenshots etc.
 Builds will be available soon when maintainers will get free time. So don't ask for ETAs._]]></Changelog>
